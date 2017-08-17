@@ -22,6 +22,7 @@ Siéntase libre de añadir otras cuentas dignas de Twitter.
 * [@CFEApps](https://twitter.com/CFEApps) - iOS Developer & Instructor at CFE Apps. Fundador de @ios_online.
 * [@mjoseoli](https://twitter.com/mjoseoli) - iOS Trainer and KeepCoding Master Bootcamp Coach at @KeepCoding_es
 * [@migueldiazrubio](https://twitter.com/migueldiazrubio) - Tutoriales de iOS y Swift en español.
+* [@TecMotivacional](https://twitter.com/TecMotivacional) - Página dedicada a la ayuda, enseñanza y motivación al programador.
 
 # Conferencias
 [@NSSpain](https://twitter.com/NSSpain) - The only (all-English) conference in Spain for iOS/macOS Developers
