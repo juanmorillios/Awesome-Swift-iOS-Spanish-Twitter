@@ -13,8 +13,8 @@ Siéntase libre de añadir otras cuentas dignas de Twitter.
 * [Personas](#personas)
 * [Conferencias](#conferencias)
 * [Blogs](#blogs)
-* [PodCasts](#podCasts)
-* [Lista Twitter](#twitter-list)
+* [PodCasts](#PodCasts)
+* [Lista Twitter](#Lista-Twitter)
 * [Contributing](#contributing-and-license)
 
 # Personas
