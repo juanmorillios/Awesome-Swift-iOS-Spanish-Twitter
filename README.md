@@ -3,7 +3,7 @@
 # Acerca
 
 Awesome-Swift-iOS-Spanish-Twitter está inspirada en:  [Awesome iOS](https://github.com/vsouza/awesome-ios)
-La lista se divide en Categorías, Personas, Conferencias y Blogs. No hay un orden definido en cada categoría. Si desea contribuir, por favor lea  [CONTRIBUTING.md](https://github.com/juanmorillios/Awesome-Swift-iOS-Spanish-Twitter/blob/master/CONTRIBUTING.md).
+La lista se divide en Categorías, Personas, Conferencias, Blogs y PodCasts. No hay un orden definido en cada categoría. Si desea contribuir, por favor lea  [CONTRIBUTING.md](https://github.com/juanmorillios/Awesome-Swift-iOS-Spanish-Twitter/blob/master/CONTRIBUTING.md).
 
 Siéntase libre de añadir otras cuentas dignas de Twitter.
 
