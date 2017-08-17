@@ -41,7 +41,7 @@ Siéntase libre de añadir otras cuentas dignas de Twitter.
 
 
 # Lista Twitter
-* [https://twitter.com/JuanMorillios/lists/swift-ios-spanish-twitter](https://twitter.com/JuanMorillios/lists/swift-ios-spanish-twitter) - Una lista de Twitter fácilmente suscribible que contiene las cuentas enumeradas arriba.
+* [Lista Twitter](https://twitter.com/JuanMorillios/lists/swift-ios-spanish-twitter) - Una lista de Twitter fácilmente suscribible que contiene las cuentas enumeradas arriba.
 
 
 # Contributing and License
