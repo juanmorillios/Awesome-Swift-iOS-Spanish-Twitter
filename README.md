@@ -40,6 +40,8 @@ Siéntase libre de añadir otras cuentas dignas de Twitter.
 * [@Apple_Coding](https://twitter.com/apple_coding) - Podcast sobre desarrollo en entornos Apple, con programas de análisis, opinión, entrevistas, noticias y todo tipo de contenido centrado en el desarrollo de apps y juegos para iOS, macOS, watchOS y tvOS con Swift, Objective-C o lenguajes y entornos compatibles.
 
 
+# Lista Twitter
+* [https://twitter.com/JuanMorillios/lists/swift-ios-spanish-twitter](https://twitter.com/JuanMorillios/lists/swift-ios-spanish-twitter) - Una lista de Twitter fácilmente suscribible que contiene las cuentas enumeradas arriba.
 
 
 # Contributing and License
