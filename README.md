@@ -24,6 +24,7 @@ Siéntase libre de añadir otras cuentas dignas de Twitter.
 * [@mjoseoli](https://twitter.com/mjoseoli) - iOS Trainer and KeepCoding Master Bootcamp Coach at @KeepCoding_es
 * [@migueldiazrubio](https://twitter.com/migueldiazrubio) - Tutoriales de iOS y Swift en español.
 * [@TecMotivacional](https://twitter.com/TecMotivacional) - Página dedicada a la ayuda, enseñanza y motivación al programador.
+* [@Lascorbe](https://twitter.com/Lascorbe) - Lead iOS Bugger @wallapop.
 
 # Conferencias
 [@NSSpain](https://twitter.com/NSSpain) - Conferencia para iOS y Mac en España.
