@@ -25,7 +25,7 @@ Siéntase libre de añadir otras cuentas dignas de Twitter.
 * [@TecMotivacional](https://twitter.com/TecMotivacional) - Página dedicada a la ayuda, enseñanza y motivación al programador.
 
 # Conferencias
-[@NSSpain](https://twitter.com/NSSpain) - The only (all-English) conference in Spain for iOS/macOS Developers
+[@NSSpain](https://twitter.com/NSSpain) - Conferencia para iOS y Mac en España.
 
 # Blogs
 * [@KeepCoding_es](https://twitter.com/KeepCoding_es) - Formación para Full Stack Developers. Coding Bootcamps Web & Mobile: iOS - Android - AngularJS - Python - Stack MEAN - git - Scrum y mucho más.
