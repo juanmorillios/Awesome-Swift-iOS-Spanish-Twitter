@@ -35,6 +35,7 @@ Siéntase libre de añadir otras cuentas dignas de Twitter.
 * [@EfectoApple](https://twitter.com/EfectoApple) - Tutoriales de Programación iOS. Swift & Objective-C. Comienza a generar ingresos desarrollando apps. Entra y programa tu futuro.
 * [@appcodacademy](https://twitter.com/appcodacademy) - Apple Coding Academy, la academia de formación especializada en desarrollo Apple, presencial y online
 * [@applesfera](https://twitter.com/applesfera) - Todo sobre el universo Apple: OS X, iPod, iPhone, iPad, Apple Watch, Apple TV y Macs. Todas las noticias, los mejores análisis, trucos y artículos de opinión.
+* [@KodigoSwift](https://twitter.com/KodigoSwift) - Tutoriales de programación en #Swift, frameworks más populares y resto de entorno.
 
 # PodCasts
 * [@applelianos](https://twitter.com/applelianos) - Podcast de tecnología, principalmente de noticias sobre el mundo de Apple, con un grupo de compañeros expertos en los temas expuestos, descubre la información adecuada con nosotros.
