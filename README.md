@@ -41,6 +41,7 @@ Siéntase libre de añadir otras cuentas dignas de Twitter.
 * [@applelianos](https://twitter.com/applelianos) - Podcast de tecnología, principalmente de noticias sobre el mundo de Apple, con un grupo de compañeros expertos en los temas expuestos, descubre la información adecuada con nosotros.
 * [@mixx_io](https://twitter.com/mixx_io) - Actualidad, información y opiniones sobre tecnología.
 * [@Apple_Coding](https://twitter.com/apple_coding) - Podcast sobre desarrollo en entornos Apple, con programas de análisis, opinión, entrevistas, noticias y todo tipo de contenido centrado en el desarrollo de apps y juegos para iOS, macOS, watchOS y tvOS con Swift, Objective-C o lenguajes y entornos compatibles.
+* [@mixx_io](https://twitter.com/CFEApps) - Esta vez en formato Podcast semanal. Si te gusta por favor suscríbete, y déjame una buena valoración.
 
 
 # Lista Twitter
