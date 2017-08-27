@@ -25,6 +25,7 @@ Siéntase libre de añadir otras cuentas dignas de Twitter.
 * [@migueldiazrubio](https://twitter.com/migueldiazrubio) - Tutoriales de iOS y Swift en español.
 * [@TecMotivacional](https://twitter.com/TecMotivacional) - Página dedicada a la ayuda, enseñanza y motivación al programador.
 * [@Lascorbe](https://twitter.com/Lascorbe) - Lead iOS Bugger @wallapop.
+* [@_aprendeios](https://twitter.com/_aprendeios) - Hola, mi nombre es Oscar Swanros, y mi objetivo es que Aprende iOS sea el lugar al que vienes a, bueno… eso, aprender iOS.
 
 # Conferencias
 [@NSSpain](https://twitter.com/NSSpain) - Conferencia para iOS y Mac en España.
@@ -42,6 +43,7 @@ Siéntase libre de añadir otras cuentas dignas de Twitter.
 * [@mixx_io](https://twitter.com/mixx_io) - Actualidad, información y opiniones sobre tecnología.
 * [@Apple_Coding](https://twitter.com/apple_coding) - Podcast sobre desarrollo en entornos Apple, con programas de análisis, opinión, entrevistas, noticias y todo tipo de contenido centrado en el desarrollo de apps y juegos para iOS, macOS, watchOS y tvOS con Swift, Objective-C o lenguajes y entornos compatibles.
 * [@CFEApps](https://twitter.com/CFEApps) - Esta vez en formato Podcast semanal. Si te gusta por favor suscríbete, y déjame una buena valoración.
+* [@_aprendeios](https://twitter.com/_aprendeios) - Hola, mi nombre es Oscar Swanros, y mi objetivo es que Aprende iOS sea el lugar al que vienes a, bueno… eso, aprender iOS.
 
 
 # Lista Twitter
