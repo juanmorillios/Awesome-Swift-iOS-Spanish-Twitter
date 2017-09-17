@@ -31,6 +31,7 @@ Siéntase libre de añadir otras cuentas dignas de Twitter.
 [@NSSpain](https://twitter.com/NSSpain) - Conferencia para iOS y Mac en España.
 
 # Blogs
+
 * [@KeepCoding_es](https://twitter.com/KeepCoding_es) - Formación para Full Stack Developers. Coding Bootcamps Web & Mobile: iOS - Android - AngularJS - Python - Stack MEAN - git - Scrum y mucho más.
 * [@SwiftFuncional](https://twitter.com/SwiftFuncional) - Somos un grupo desarrolladores que juntando nuestros conocimientos, creemos que podemos explicar programación funcional con Swift de una forma práctica y amena.
 * [@EfectoApple](https://twitter.com/EfectoApple) - Tutoriales de Programación iOS. Swift & Objective-C. Comienza a generar ingresos desarrollando apps. Entra y programa tu futuro.
@@ -39,17 +40,26 @@ Siéntase libre de añadir otras cuentas dignas de Twitter.
 * [@KodigoSwift](https://twitter.com/KodigoSwift) - Tutoriales de programación en #Swift, frameworks más populares y resto de entorno.
 
 # PodCasts
+
 * [@applelianos](https://twitter.com/applelianos) - Podcast de tecnología, principalmente de noticias sobre el mundo de Apple, con un grupo de compañeros expertos en los temas expuestos, descubre la información adecuada con nosotros.
+
 * [@mixx_io](https://twitter.com/mixx_io) - Actualidad, información y opiniones sobre tecnología.
+
 * [@Apple_Coding](https://twitter.com/apple_coding) - Podcast sobre desarrollo en entornos Apple, con programas de análisis, opinión, entrevistas, noticias y todo tipo de contenido centrado en el desarrollo de apps y juegos para iOS, macOS, watchOS y tvOS con Swift, Objective-C o lenguajes y entornos compatibles.
+
 * [@CFEApps](https://twitter.com/CFEApps) - Esta vez en formato Podcast semanal. Si te gusta por favor suscríbete, y déjame una buena valoración.
 * [@_aprendeios](https://twitter.com/_aprendeios) - Hola, mi nombre es Oscar Swanros, y mi objetivo es que Aprende iOS sea el lugar al que vienes a, bueno… eso, aprender iOS.
 
+* [@@MarcianoCast](https://twitter.com/MarcianoCast) - Tu podcast favorito con @MARCIANOPHONE @glamedag @BrujaOscuraML2 @ProfeJuAntonio Grupo de opinión exclusivo para el podcast en Facebook: http://on.fb.me/1G7zsCD 
+
+
 
 # Lista Twitter
+
 * [Lista Twitter](https://twitter.com/JuanMorillios/lists/swift-ios-spanish-twitter) - Una lista de Twitter fácilmente suscribible que contiene las cuentas enumeradas arriba.
 
 
 # Contributing and License
+
 * [CONTRIBUTING.md](https://github.com/juanmorillios/Awesome-Swift-iOS-Spanish-Twitter/blob/master/CONTRIBUTING.md)
 * En la medida de lo posible bajo la ley, Juan Morillo ha renunciado a todos los derechos de autor y derechos conexos o relacionados con esta obra. Consulte LICENCIA para obtener más información.
