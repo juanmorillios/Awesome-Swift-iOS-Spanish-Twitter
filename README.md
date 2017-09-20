@@ -62,6 +62,8 @@ Siéntete libre de añadir otras cuentas de Twitter.
 
 # PodCasts
 
+* [@estoconjobsno](https://twitter.com/estoconjobsno) - El programa de Tecnología de AVpodcast, para Todos los Usuarios de Apple. Somos Punto de Encuentro, de la Comunidad Mac en Español. Con José Luis Hurtado, Miguel Infantes y Gerardo Molleda.
+
 * [@applelianos](https://twitter.com/applelianos) - Podcast de tecnología, principalmente de noticias sobre el mundo de Apple, con un grupo de compañeros expertos en los temas expuestos, descubre la información adecuada con nosotros.
 
 * [@mixx_io](https://twitter.com/mixx_io) - Actualidad, información y opiniones sobre tecnología.
