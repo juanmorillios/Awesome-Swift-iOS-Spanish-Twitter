@@ -24,6 +24,8 @@ Siéntete libre de añadir otras cuentas de Twitter.
 * [Contributing](#contributing-and-license)
 
 # Personas
+* [@pepibumur](https://twitter.com/pepibumur) - iOS crafter at @SoundCloud, creador viper-module-generator.
+
 * [@jcfmunoz](https://twitter.com/jcfmunoz) - Apple Developer Evangelist. Responsable @apple_coding.
 
 * [@frr149](https://twitter.com/frr149) - Co-Founder at @KeepCoding_es Previously instructor at @bignerdranch & @udacity.
