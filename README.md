@@ -24,6 +24,9 @@ Siéntete libre de añadir otras cuentas de Twitter.
 * [Contributing](#contributing-and-license)
 
 # Personas
+
+* [@che1404](https://twitter.com/che1404) - Freelance iOS developer. Building iOS apps for startups.
+
 * [@pepibumur](https://twitter.com/pepibumur) - iOS crafter at @SoundCloud, creador viper-module-generator.
 
 * [@jcfmunoz](https://twitter.com/jcfmunoz) - Apple Developer Evangelist. Responsable @apple_coding.
