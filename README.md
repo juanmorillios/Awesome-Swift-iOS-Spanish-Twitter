@@ -25,6 +25,8 @@ Siéntete libre de añadir otras cuentas de Twitter.
 
 # Personas
 
+* [@KrauseFx](https://twitter.com/KrauseFx) - Professional iOS Code Signing Issue Resolver - Creator of http://fastlane.tools 
+
 * [@che1404](https://twitter.com/che1404) - Freelance iOS developer. Building iOS apps for startups.
 
 * [@pepibumur](https://twitter.com/pepibumur) - iOS crafter at @SoundCloud, creador viper-module-generator.
