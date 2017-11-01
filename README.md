@@ -25,6 +25,8 @@ Siéntete libre de añadir otras cuentas de Twitter.
 
 # Personas
 
+* [@migueldiazrubio](https://twitter.com/migueldiazrubio) - Tutoriales de iOS y Swift en español.
+
 * [@KrauseFx](https://twitter.com/KrauseFx) - Professional iOS Code Signing Issue Resolver - Creator of http://fastlane.tools 
 
 * [@che1404](https://twitter.com/che1404) - Freelance iOS developer. Building iOS apps for startups.
