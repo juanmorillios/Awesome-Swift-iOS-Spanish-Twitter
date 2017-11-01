@@ -57,6 +57,8 @@ Siéntete libre de añadir otras cuentas de Twitter.
 
 # Blogs
 
+* [@migueldiazrubio ](https://twitter.com/migueldiazrubio) - Tutoriales de iOS y Swift en español y mucho más en http://www.migueldiazrubio.com.
+
 * [@KeepCoding_es](https://twitter.com/KeepCoding_es) - Formación para Full Stack Developers. Coding Bootcamps Web & Mobile: iOS - Android - AngularJS - Python - Stack MEAN - git - Scrum y mucho más.
 
 * [@SwiftFuncional](https://twitter.com/SwiftFuncional) - Somos un grupo desarrolladores que juntando nuestros conocimientos, creemos que podemos explicar programación funcional con Swift de una forma práctica y amena.
