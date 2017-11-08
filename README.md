@@ -25,8 +25,6 @@ Siéntete libre de añadir otras cuentas de Twitter.
 
 # Personas
 
-* [@migueldiazrubio](https://twitter.com/migueldiazrubio) - Tutoriales de iOS y Swift en español.
-
 * [@KrauseFx](https://twitter.com/KrauseFx) - Professional iOS Code Signing Issue Resolver - Creator of http://fastlane.tools 
 
 * [@che1404](https://twitter.com/che1404) - Freelance iOS developer. Building iOS apps for startups.
@@ -75,6 +73,8 @@ Siéntete libre de añadir otras cuentas de Twitter.
 * [@KodigoSwift](https://twitter.com/KodigoSwift) - Tutoriales de programación en #Swift, frameworks más populares y resto de entorno.
 
 # PodCasts
+
+* [@DavidGiordana](https://twitter.com/@DavidGiordana) - Podcast de programación vista desde un punto de vista más humano para compartir el conocimiento y disfrutar de este gran arte que es el desarrollo de software junto con la comunidad.
 
 * [@haciendoappso](https://twitter.com/haciendoapps) - Haciendo Apps, el programa, y podcast, que te muestra desde dentro el desarrollo de aplicaciones para móviles. Presentado por Sergio Becerril y Silvia Mujica.
 
