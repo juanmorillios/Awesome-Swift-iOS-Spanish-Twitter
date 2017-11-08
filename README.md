@@ -55,9 +55,12 @@ Siéntete libre de añadir otras cuentas de Twitter.
 
 [@NSSpain](https://twitter.com/NSSpain) - Conferencia para iOS y Mac en España.
 
+
 # Blogs
 
-* [@migueldiazrubio ](https://twitter.com/migueldiazrubio) - Tutoriales de iOS y Swift en español y mucho más en http://www.migueldiazrubio.com.
+* [@estoconjobsno](https://twitter.com/estoconjobsno) - El Programa de Tecnología de @avpodnet, para Todos los Usuarios de Apple. Somos Punto de Encuentro, de la Comunidad Mac en Español.
+
+* [@migueldiazrubio](https://twitter.com/migueldiazrubio) - Tutoriales de iOS y Swift en español y mucho más en http://www.migueldiazrubio.com.
 
 * [@KeepCoding_es](https://twitter.com/KeepCoding_es) - Formación para Full Stack Developers. Coding Bootcamps Web & Mobile: iOS - Android - AngularJS - Python - Stack MEAN - git - Scrum y mucho más.
 
