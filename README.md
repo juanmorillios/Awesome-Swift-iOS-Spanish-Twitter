@@ -25,6 +25,8 @@ Siéntete libre de añadir otras cuentas de Twitter.
 
 # Personas
 
+* [@jdortiz](https://twitter.com/jdortiz) - PoWWaU founder. Mobile development instructor. Developer of productivity apps for mobile devices.
+
 * [@KrauseFx](https://twitter.com/KrauseFx) - Professional iOS Code Signing Issue Resolver - Creator of http://fastlane.tools 
 
 * [@che1404](https://twitter.com/che1404) - Freelance iOS developer. Building iOS apps for startups.
