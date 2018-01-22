@@ -25,6 +25,8 @@ Siéntete libre de añadir otras cuentas de Twitter.
 
 # Personas
 
+* [@FitoMAD](https://twitter.com/FitoMAD) - Me gustan las camisetas y las zapatillas // Desarrollo y Diseño para sistemas Apple // Creador de @GetPomodoroApp · @GetAtentoApp · @MADatBUS · @GetMeteo 
+
 * [@jdortiz](https://twitter.com/jdortiz) - PoWWaU founder. Mobile development instructor. Developer of productivity apps for mobile devices.
 
 * [@KrauseFx](https://twitter.com/KrauseFx) - Professional iOS Code Signing Issue Resolver - Creator of http://fastlane.tools 
