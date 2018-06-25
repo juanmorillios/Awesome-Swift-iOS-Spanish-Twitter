@@ -25,6 +25,8 @@ Siéntete libre de añadir otras cuentas de Twitter.
 
 # Personas
 
+* [@Rakuhapps](https://twitter.com/rakuhapps) - iOS developer. Building iOS apps for iOS With Objetive-c and Swift.
+
 * [@FitoMAD](https://twitter.com/FitoMAD) - Me gustan las camisetas y las zapatillas // Desarrollo y Diseño para sistemas Apple // Creador de @GetPomodoroApp · @GetAtentoApp · @MADatBUS · @GetMeteo 
 
 * [@jdortiz](https://twitter.com/jdortiz) - PoWWaU founder. Mobile development instructor. Developer of productivity apps for mobile devices.
